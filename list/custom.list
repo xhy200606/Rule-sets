@@ -1,11 +1,3 @@
-# NAME: Custom
-# AUTHOR: Chananyah
-# REPO: https://github.com/xhy200606/Rule-sets/edit/main/list/Custom.list
-# UPDATED: 2025-12-16 09:17:46
-
-
-
-# Tradingview
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,cliproxy.io
