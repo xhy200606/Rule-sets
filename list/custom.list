@@ -7,12 +7,5 @@
 
 # Tradingview
 DOMAIN-SUFFIX,tradingview.com
-DOMAIN-KEYWORD,tradingview
-
-DOMAIN-KEYWORD,coinglass
-DOMAIN-KEYWORD,docker
-DOMAIN-KEYWORD,greasyfork
-DOMAIN-KEYWORD,apkpure
-DOMAIN-KEYWORD,polymarket
 DOMAIN-SUFFIX,openwrt.org
-DOMAIN-KEYWORD,cliproxy
+DOMAIN-SUFFIX,cliproxy.io
