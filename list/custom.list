@@ -1,5 +1,4 @@
-DOMAIN-SUFFIX,tradingview.com
-DOMAIN-SUFFIX,openwrt.org
-DOMAIN-SUFFIX,cliproxy.io
-
-
+payload:
+  - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN-SUFFIX,openwrt.org
+  - DOMAIN-SUFFIX,cliproxy.io
