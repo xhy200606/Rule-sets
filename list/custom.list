@@ -1,0 +1,18 @@
+# NAME: Custom
+# AUTHOR: Chananyah
+# REPO: https://github.com/xhy200606/Rule-sets/edit/main/list/Custom.list
+# UPDATED: 2025-12-16 09:17:46
+
+
+
+# Tradingview
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-KEYWORD,tradingview
+
+DOMAIN-KEYWORD,coinglass
+DOMAIN-KEYWORD,docker
+DOMAIN-KEYWORD,greasyfork
+DOMAIN-KEYWORD,apkpure
+DOMAIN-KEYWORD,polymarket
+DOMAIN-SUFFIX,openwrt.org
+DOMAIN-KEYWORD,cliproxy
