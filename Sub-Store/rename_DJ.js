@@ -12,7 +12,7 @@ async function operator(proxies) {
       pureName = p.name.replace(emoji, "").trim(); // 去掉图标后的纯名字
     }
 
-    // 2. 重新组合：图标 + 赔钱- + 剩余名字
+    // 2. 重新组合：图标 + 顶级- + 剩余名字
     p.name = `${emoji}顶级-${pureName}`;
     
     return p;
