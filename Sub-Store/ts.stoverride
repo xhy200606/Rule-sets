@@ -1,0 +1,14 @@
+name: Add Tailscale Proxy and Rules
+desc: 添加 Tailscale 节点和对应分流规则，不修改原始订阅
+
+proxies:
+  - name: ts-main
+    type: tailscale
+    auth-key: tskey-auth-k2y4XSuja311CNTRL-frruNsXjQNN1FFCQ37oFPN2ozAaZiPyN
+    hostname: ts-main
+    control-url: https://controlplane.tailscale.com
+    ephemeral: false
+
+rules:
+  - DOMAIN,app.example.ts.net,ts-main
+  - IP-CIDR,100.64.0.0/10,ts-main,no-resolve
